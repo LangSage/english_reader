@@ -1,0 +1,1550 @@
+{
+  "naruto": {
+    "word": "Naruto",
+    "translation": "Наруто (главный герой)",
+    "emoji": "🌀",
+    "audio": "audio/en/naruto.mp3"
+  },
+  "village": {
+    "word": "village",
+    "translation": "деревня",
+    "emoji": "🏘️",
+    "audio": "audio/en/village.mp3"
+  },
+  "leaf": {
+    "word": "Leaf",
+    "translation": "Лист (Скрытый Лист, название деревни)",
+    "emoji": "🍃",
+    "audio": "audio/en/leaf.mp3"
+  },
+  "ninja": {
+    "word": "ninja",
+    "translation": "ниндзя",
+    "emoji": "🥷",
+    "audio": "audio/en/ninja.mp3"
+  },
+  "hokage": {
+    "word": "Hokage",
+    "translation": "Хокаге (лидер деревни)",
+    "emoji": "👑",
+    "audio": "audio/en/hokage.mp3"
+  },
+  "training": {
+    "word": "training",
+    "translation": "тренировка",
+    "emoji": "🏋️",
+    "audio": "audio/en/training.mp3"
+  },
+  "chakra": {
+    "word": "chakra",
+    "translation": "чакра (энергия внутри тела)",
+    "emoji": "✨",
+    "audio": "audio/en/chakra.mp3"
+  },
+  "energy": {
+    "word": "energy",
+    "translation": "энергия",
+    "emoji": "⚡",
+    "audio": "audio/en/energy.mp3"
+  },
+  "lonely": {
+    "word": "lonely",
+    "translation": "одинокий",
+    "emoji": "😔",
+    "audio": "audio/en/lonely.mp3"
+  },
+  "pranks": {
+    "word": "pranks",
+    "translation": "шалости, приколы",
+    "emoji": "🤪",
+    "audio": "audio/en/pranks.mp3"
+  },
+  "teacher": {
+    "word": "teacher",
+    "translation": "учитель",
+    "emoji": "👨‍🏫",
+    "audio": "audio/en/teacher.mp3"
+  },
+  "mission": {
+    "word": "mission",
+    "translation": "миссия, задание",
+    "emoji": "🎯",
+    "audio": "audio/en/mission.mp3"
+  },
+  "danger": {
+    "word": "danger",
+    "translation": "опасность",
+    "emoji": "⚠️",
+    "audio": "audio/en/danger.mp3"
+  },
+  "protect": {
+    "word": "protect",
+    "translation": "защищать",
+    "emoji": "🛡️",
+    "audio": "audio/en/protect.mp3"
+  },
+  "promise": {
+    "word": "promise",
+    "translation": "обещание",
+    "emoji": "🤝",
+    "audio": "audio/en/promise.mp3"
+  },
+  "believe": {
+    "word": "believe",
+    "translation": "верить",
+    "emoji": "✨",
+    "audio": "audio/en/believe.mp3"
+  },
+  "future": {
+    "word": "future",
+    "translation": "будущее",
+    "emoji": "➡️",
+    "audio": "audio/en/future.mp3"
+  },
+  "team": {
+    "word": "team",
+    "translation": "команда",
+    "emoji": "👥",
+    "audio": "audio/en/team.mp3"
+  },
+  "sasuke": {
+    "word": "Sasuke",
+    "translation": "Саске",
+    "emoji": "🗡️",
+    "audio": "audio/en/sasuke.mp3"
+  },
+  "sakura": {
+    "word": "Sakura",
+    "translation": "Сакура",
+    "emoji": "🌸",
+    "audio": "audio/en/sakura.mp3"
+  },
+  "sensei": {
+    "word": "sensei",
+    "translation": "сэнсэй, учитель",
+    "emoji": "🧑‍🏫",
+    "audio": "audio/en/sensei.mp3"
+  },
+  "kakashi": {
+    "word": "Kakashi",
+    "translation": "Какаши",
+    "emoji": "📚",
+    "audio": "audio/en/kakashi.mp3"
+  },
+  "quiet": {
+    "word": "quiet",
+    "translation": "тихий",
+    "emoji": "🤫",
+    "audio": "audio/en/quiet.mp3"
+  },
+  "talented": {
+    "word": "talented",
+    "translation": "талантливый",
+    "emoji": "🌟",
+    "audio": "audio/en/talented.mp3"
+  },
+  "smart": {
+    "word": "smart",
+    "translation": "умный",
+    "emoji": "🧠",
+    "audio": "audio/en/smart.mp3"
+  },
+  "together": {
+    "word": "together",
+    "translation": "вместе",
+    "emoji": "🤝",
+    "audio": "audio/en/together.mp3"
+  },
+  "bell": {
+    "word": "bell",
+    "translation": "колокольчик",
+    "emoji": "🔔",
+    "audio": "audio/en/bell.mp3"
+  },
+  "bells": {
+    "word": "bells",
+    "translation": "колокольчики",
+    "emoji": "🔔",
+    "audio": "audio/en/bells.mp3"
+  },
+  "rule": {
+    "word": "rule",
+    "translation": "правило",
+    "emoji": "📜",
+    "audio": "audio/en/rule.mp3"
+  },
+  "fail": {
+    "word": "fail",
+    "translation": "провалиться, не сдать",
+    "emoji": "❌",
+    "audio": "audio/en/fail.mp3"
+  },
+  "teamwork": {
+    "word": "teamwork",
+    "translation": "командная работа",
+    "emoji": "🤝",
+    "audio": "audio/en/teamwork.mp3"
+  },
+  "clone": {
+    "word": "clone",
+    "translation": "клон (техника клона)",
+    "emoji": "🌀",
+    "audio": "audio/en/clone.mp3"
+  },
+  "illusion": {
+    "word": "illusion",
+    "translation": "иллюзия (гендзюцу)",
+    "emoji": "🌫️",
+    "audio": "audio/en/illusion.mp3"
+  },
+  "traps": {
+    "word": "traps",
+    "translation": "ловушки",
+    "emoji": "🪤",
+    "audio": "audio/en/traps.mp3"
+  },
+  "share": {
+    "word": "share",
+    "translation": "делиться",
+    "emoji": "🍱",
+    "audio": "audio/en/share.mp3"
+  },
+  "lunch": {
+    "word": "lunch",
+    "translation": "обед",
+    "emoji": "🍱",
+    "audio": "audio/en/lunch.mp3"
+  },
+  "friends": {
+    "word": "friends",
+    "translation": "друзья",
+    "emoji": "🧑‍🤝‍🧑",
+    "audio": "audio/en/friends.mp3"
+  },
+  "a": {
+    "word": "a",
+    "translation": "один, какой-то (артикль)",
+    "emoji": "1️⃣",
+    "audio": "audio/en/a.mp3"
+  },
+  "about": {
+    "word": "about",
+    "translation": "о, про",
+    "emoji": "💬",
+    "audio": "audio/en/about.mp3"
+  },
+  "academy": {
+    "word": "academy",
+    "translation": "академия",
+    "emoji": "🎓",
+    "audio": "audio/en/academy.mp3"
+  },
+  "adventure": {
+    "word": "adventure",
+    "translation": "приключение",
+    "emoji": "🧭",
+    "audio": "audio/en/adventure.mp3"
+  },
+  "afraid": {
+    "word": "afraid",
+    "translation": "бояться, напуганный",
+    "emoji": "😨",
+    "audio": "audio/en/afraid.mp3"
+  },
+  "after": {
+    "word": "After",
+    "translation": "после",
+    "emoji": "⏭️",
+    "audio": "audio/en/after.mp3"
+  },
+  "alone": {
+    "word": "alone",
+    "translation": "один, в одиночестве",
+    "emoji": "🧍",
+    "audio": "audio/en/alone.mp3"
+  },
+  "also": {
+    "word": "also",
+    "translation": "также",
+    "emoji": "➕",
+    "audio": "audio/en/also.mp3"
+  },
+  "an": {
+    "word": "an",
+    "translation": "один, какой-то (артикль)",
+    "emoji": "1️⃣",
+    "audio": "audio/en/an.mp3"
+  },
+  "and": {
+    "word": "and",
+    "translation": "и",
+    "emoji": "➕",
+    "audio": "audio/en/and.mp3"
+  },
+  "any": {
+    "word": "any",
+    "translation": "любой, какой-нибудь",
+    "emoji": "🎯",
+    "audio": "audio/en/any.mp3"
+  },
+  "appears": {
+    "word": "appears",
+    "translation": "появляется",
+    "emoji": "✨",
+    "audio": "audio/en/appears.mp3"
+  },
+  "are": {
+    "word": "are",
+    "translation": "есть, являются",
+    "emoji": "✅",
+    "audio": "audio/en/are.mp3"
+  },
+  "area": {
+    "word": "area",
+    "translation": "область, район",
+    "emoji": "📍",
+    "audio": "audio/en/area.mp3"
+  },
+  "as": {
+    "word": "as",
+    "translation": "как, словно",
+    "emoji": "🔄",
+    "audio": "audio/en/as.mp3"
+  },
+  "at": {
+    "word": "At",
+    "translation": "в, у, около",
+    "emoji": "📍",
+    "audio": "audio/en/at.mp3"
+  },
+  "attack": {
+    "word": "attack",
+    "translation": "атаковать, атака",
+    "emoji": "⚔️",
+    "audio": "audio/en/attack.mp3"
+  },
+  "attacks": {
+    "word": "attacks",
+    "translation": "атакует, атаки",
+    "emoji": "⚔️",
+    "audio": "audio/en/attacks.mp3"
+  },
+  "attention": {
+    "word": "attention",
+    "translation": "внимание",
+    "emoji": "👀",
+    "audio": "audio/en/attention.mp3"
+  },
+  "b": {
+    "word": "B",
+    "translation": "буква «b»",
+    "emoji": "🔤",
+    "audio": "audio/en/b.mp3"
+  },
+  "battle": {
+    "word": "battle",
+    "translation": "битва",
+    "emoji": "⚔️",
+    "audio": "audio/en/battle.mp3"
+  },
+  "because": {
+    "word": "because",
+    "translation": "потому что",
+    "emoji": "🤔",
+    "audio": "audio/en/because.mp3"
+  },
+  "become": {
+    "word": "become",
+    "translation": "становиться",
+    "emoji": "🔁",
+    "audio": "audio/en/become.mp3"
+  },
+  "becomes": {
+    "word": "becomes",
+    "translation": "становится",
+    "emoji": "🔁",
+    "audio": "audio/en/becomes.mp3"
+  },
+  "between": {
+    "word": "between",
+    "translation": "между",
+    "emoji": "⚖️",
+    "audio": "audio/en/between.mp3"
+  },
+  "big": {
+    "word": "big",
+    "translation": "большой",
+    "emoji": "🐘",
+    "audio": "audio/en/big.mp3"
+  },
+  "bigger": {
+    "word": "bigger",
+    "translation": "больше",
+    "emoji": "⬆️",
+    "audio": "audio/en/bigger.mp3"
+  },
+  "biggest": {
+    "word": "biggest",
+    "translation": "самый большой",
+    "emoji": "🏔️",
+    "audio": "audio/en/biggest.mp3"
+  },
+  "body": {
+    "word": "body",
+    "translation": "тело",
+    "emoji": "🧍",
+    "audio": "audio/en/body.mp3"
+  },
+  "boring": {
+    "word": "boring",
+    "translation": "скучный",
+    "emoji": "😪",
+    "audio": "audio/en/boring.mp3"
+  },
+  "breaks": {
+    "word": "breaks",
+    "translation": "ломает(ся), разбивает",
+    "emoji": "💥",
+    "audio": "audio/en/breaks.mp3"
+  },
+  "bridge": {
+    "word": "bridge",
+    "translation": "мост",
+    "emoji": "🌉",
+    "audio": "audio/en/bridge.mp3"
+  },
+  "builder": {
+    "word": "builder",
+    "translation": "строитель",
+    "emoji": "👷",
+    "audio": "audio/en/builder.mp3"
+  },
+  "but": {
+    "word": "But",
+    "translation": "но",
+    "emoji": "⚠️",
+    "audio": "audio/en/but.mp3"
+  },
+  "called": {
+    "word": "called",
+    "translation": "называется, назвали",
+    "emoji": "🏷️",
+    "audio": "audio/en/called.mp3"
+  },
+  "can": {
+    "word": "can",
+    "translation": "может, мочь",
+    "emoji": "💪",
+    "audio": "audio/en/can.mp3"
+  },
+  "cannot": {
+    "word": "cannot",
+    "translation": "не может",
+    "emoji": "🚫",
+    "audio": "audio/en/cannot.mp3"
+  },
+  "cares": {
+    "word": "cares",
+    "translation": "заботится",
+    "emoji": "❤️",
+    "audio": "audio/en/cares.mp3"
+  },
+  "catching": {
+    "word": "catching",
+    "translation": "ловя, ловить",
+    "emoji": "🎣",
+    "audio": "audio/en/catching.mp3"
+  },
+  "cats": {
+    "word": "cats",
+    "translation": "коты, кошки",
+    "emoji": "🐱",
+    "audio": "audio/en/cats.mp3"
+  },
+  "choices": {
+    "word": "choices",
+    "translation": "выборы, варианты",
+    "emoji": "✅",
+    "audio": "audio/en/choices.mp3"
+  },
+  "chose": {
+    "word": "chose",
+    "translation": "выбрал",
+    "emoji": "☑️",
+    "audio": "audio/en/chose.mp3"
+  },
+  "client": {
+    "word": "client",
+    "translation": "клиент",
+    "emoji": "🧑‍💼",
+    "audio": "audio/en/client.mp3"
+  },
+  "covers": {
+    "word": "covers",
+    "translation": "покрывает, прикрывает",
+    "emoji": "🛡️",
+    "audio": "audio/en/covers.mp3"
+  },
+  "day": {
+    "word": "day",
+    "translation": "день",
+    "emoji": "☀️",
+    "audio": "audio/en/day.mp3"
+  },
+  "different": {
+    "word": "different",
+    "translation": "разный, другой",
+    "emoji": "🔀",
+    "audio": "audio/en/different.mp3"
+  },
+  "does": {
+    "word": "does",
+    "translation": "делает, вспомогательный глагол",
+    "emoji": "🔧",
+    "audio": "audio/en/does.mp3"
+  },
+  "doing": {
+    "word": "doing",
+    "translation": "делая, делать",
+    "emoji": "🔧",
+    "audio": "audio/en/doing.mp3"
+  },
+  "dream": {
+    "word": "Dream",
+    "translation": "мечта, сон",
+    "emoji": "💭",
+    "audio": "audio/en/dream.mp3"
+  },
+  "dreams": {
+    "word": "dreams",
+    "translation": "мечты, сны",
+    "emoji": "💭",
+    "audio": "audio/en/dreams.mp3"
+  },
+  "drinks": {
+    "word": "drinks",
+    "translation": "пьёт, напитки",
+    "emoji": "🥤",
+    "audio": "audio/en/drinks.mp3"
+  },
+  "each": {
+    "word": "each",
+    "translation": "каждый",
+    "emoji": "🔁",
+    "audio": "audio/en/each.mp3"
+  },
+  "easy": {
+    "word": "easy",
+    "translation": "лёгкий, простой",
+    "emoji": "🙂",
+    "audio": "audio/en/easy.mp3"
+  },
+  "emoji": {
+    "word": "emoji",
+    "translation": "эмодзи, смайлик",
+    "emoji": "😊",
+    "audio": "audio/en/emoji.mp3"
+  },
+  "end": {
+    "word": "end",
+    "translation": "конец",
+    "emoji": "🔚",
+    "audio": "audio/en/end.mp3"
+  },
+  "enemies": {
+    "word": "enemies",
+    "translation": "враги",
+    "emoji": "👿",
+    "audio": "audio/en/enemies.mp3"
+  },
+  "enemy": {
+    "word": "enemy",
+    "translation": "враг",
+    "emoji": "👿",
+    "audio": "audio/en/enemy.mp3"
+  },
+  "even": {
+    "word": "even",
+    "translation": "даже",
+    "emoji": "➕",
+    "audio": "audio/en/even.mp3"
+  },
+  "every": {
+    "word": "every",
+    "translation": "каждый, всякий",
+    "emoji": "📅",
+    "audio": "audio/en/every.mp3"
+  },
+  "exams": {
+    "word": "exams",
+    "translation": "экзамены",
+    "emoji": "📚",
+    "audio": "audio/en/exams.mp3"
+  },
+  "excited": {
+    "word": "excited",
+    "translation": "взволнованный, воодушевлённый",
+    "emoji": "🤩",
+    "audio": "audio/en/excited.mp3"
+  },
+  "eye": {
+    "word": "eye",
+    "translation": "глаз",
+    "emoji": "👁️",
+    "audio": "audio/en/eye.mp3"
+  },
+  "faces": {
+    "word": "faces",
+    "translation": "лица",
+    "emoji": "🙂",
+    "audio": "audio/en/faces.mp3"
+  },
+  "fails": {
+    "word": "fails",
+    "translation": "терпит неудачу",
+    "emoji": "❌",
+    "audio": "audio/en/fails.mp3"
+  },
+  "famous": {
+    "word": "famous",
+    "translation": "знаменитый",
+    "emoji": "🌟",
+    "audio": "audio/en/famous.mp3"
+  },
+  "fight": {
+    "word": "fight",
+    "translation": "драться, бой",
+    "emoji": "🥊",
+    "audio": "audio/en/fight.mp3"
+  },
+  "fights": {
+    "word": "fights",
+    "translation": "дерётся, бои",
+    "emoji": "🥊",
+    "audio": "audio/en/fights.mp3"
+  },
+  "finally": {
+    "word": "finally",
+    "translation": "наконец",
+    "emoji": "🎉",
+    "audio": "audio/en/finally.mp3"
+  },
+  "first": {
+    "word": "first",
+    "translation": "первый",
+    "emoji": "1️⃣",
+    "audio": "audio/en/first.mp3"
+  },
+  "focuses": {
+    "word": "focuses",
+    "translation": "сосредотачивается",
+    "emoji": "🎯",
+    "audio": "audio/en/focuses.mp3"
+  },
+  "for": {
+    "word": "for",
+    "translation": "для",
+    "emoji": "🎁",
+    "audio": "audio/en/for.mp3"
+  },
+  "from": {
+    "word": "from",
+    "translation": "из, от",
+    "emoji": "📤",
+    "audio": "audio/en/from.mp3"
+  },
+  "funny": {
+    "word": "funny",
+    "translation": "смешной",
+    "emoji": "😂",
+    "audio": "audio/en/funny.mp3"
+  },
+  "get": {
+    "word": "get",
+    "translation": "получать, становиться",
+    "emoji": "🎁",
+    "audio": "audio/en/get.mp3"
+  },
+  "give": {
+    "word": "give",
+    "translation": "давать",
+    "emoji": "🎁",
+    "audio": "audio/en/give.mp3"
+  },
+  "goal": {
+    "word": "goal",
+    "translation": "цель",
+    "emoji": "🎯",
+    "audio": "audio/en/goal.mp3"
+  },
+  "haku": {
+    "word": "Haku",
+    "translation": "Хаку (имя)",
+    "emoji": "❄️",
+    "audio": "audio/en/haku.mp3"
+  },
+  "hard": {
+    "word": "hard",
+    "translation": "трудный, тяжёлый",
+    "emoji": "💪",
+    "audio": "audio/en/hard.mp3"
+  },
+  "harder": {
+    "word": "harder",
+    "translation": "труднее",
+    "emoji": "💪",
+    "audio": "audio/en/harder.mp3"
+  },
+  "has": {
+    "word": "has",
+    "translation": "имеет",
+    "emoji": "📦",
+    "audio": "audio/en/has.mp3"
+  },
+  "hates": {
+    "word": "hates",
+    "translation": "ненавидит",
+    "emoji": "😡",
+    "audio": "audio/en/hates.mp3"
+  },
+  "have": {
+    "word": "have",
+    "translation": "иметь",
+    "emoji": "📦",
+    "audio": "audio/en/have.mp3"
+  },
+  "he": {
+    "word": "he",
+    "translation": "он",
+    "emoji": "👦",
+    "audio": "audio/en/he.mp3"
+  },
+  "hear": {
+    "word": "hear",
+    "translation": "слышать",
+    "emoji": "👂",
+    "audio": "audio/en/hear.mp3"
+  },
+  "heart": {
+    "word": "heart",
+    "translation": "сердце",
+    "emoji": "❤️",
+    "audio": "audio/en/heart.mp3"
+  },
+  "help": {
+    "word": "help",
+    "translation": "помощь, помогать",
+    "emoji": "🆘",
+    "audio": "audio/en/help.mp3"
+  },
+  "hidden": {
+    "word": "Hidden",
+    "translation": "скрытый",
+    "emoji": "🫥",
+    "audio": "audio/en/hidden.mp3"
+  },
+  "highlighted": {
+    "word": "highlighted",
+    "translation": "выделенный, подсвеченный",
+    "emoji": "✨",
+    "audio": "audio/en/highlighted.mp3"
+  },
+  "him": {
+    "word": "him",
+    "translation": "его, ему",
+    "emoji": "👦",
+    "audio": "audio/en/him.mp3"
+  },
+  "himself": {
+    "word": "himself",
+    "translation": "сам, сам себя",
+    "emoji": "🙋",
+    "audio": "audio/en/himself.mp3"
+  },
+  "his": {
+    "word": "his",
+    "translation": "его (чей?)",
+    "emoji": "👦",
+    "audio": "audio/en/his.mp3"
+  },
+  "honest": {
+    "word": "honest",
+    "translation": "честный",
+    "emoji": "🤝",
+    "audio": "audio/en/honest.mp3"
+  },
+  "how": {
+    "word": "how",
+    "translation": "как?",
+    "emoji": "❓",
+    "audio": "audio/en/how.mp3"
+  },
+  "huge": {
+    "word": "huge",
+    "translation": "огромный",
+    "emoji": "🗼",
+    "audio": "audio/en/huge.mp3"
+  },
+  "ignore": {
+    "word": "ignore",
+    "translation": "игнорировать",
+    "emoji": "🙈",
+    "audio": "audio/en/ignore.mp3"
+  },
+  "important": {
+    "word": "important",
+    "translation": "важный",
+    "emoji": "⭐",
+    "audio": "audio/en/important.mp3"
+  },
+  "in": {
+    "word": "In",
+    "translation": "в",
+    "emoji": "📍",
+    "audio": "audio/en/in.mp3"
+  },
+  "inside": {
+    "word": "inside",
+    "translation": "внутри",
+    "emoji": "📦",
+    "audio": "audio/en/inside.mp3"
+  },
+  "is": {
+    "word": "is",
+    "translation": "есть, является",
+    "emoji": "✅",
+    "audio": "audio/en/is.mp3"
+  },
+  "it": {
+    "word": "it",
+    "translation": "это, он/она (про предмет)",
+    "emoji": "📦",
+    "audio": "audio/en/it.mp3"
+  },
+  "its": {
+    "word": "its",
+    "translation": "его, её (про предмет)",
+    "emoji": "📦",
+    "audio": "audio/en/its.mp3"
+  },
+  "jobs": {
+    "word": "jobs",
+    "translation": "работы, задания",
+    "emoji": "💼",
+    "audio": "audio/en/jobs.mp3"
+  },
+  "joins": {
+    "word": "joins",
+    "translation": "присоединяется",
+    "emoji": "🤝",
+    "audio": "audio/en/joins.mp3"
+  },
+  "just": {
+    "word": "just",
+    "translation": "просто",
+    "emoji": "😌",
+    "audio": "audio/en/just.mp3"
+  },
+  "land": {
+    "word": "Land",
+    "translation": "страна, земля",
+    "emoji": "🌍",
+    "audio": "audio/en/land.mp3"
+  },
+  "later": {
+    "word": "Later",
+    "translation": "позже",
+    "emoji": "⏰",
+    "audio": "audio/en/later.mp3"
+  },
+  "leader": {
+    "word": "leader",
+    "translation": "лидер",
+    "emoji": "🧑‍✈️",
+    "audio": "audio/en/leader.mp3"
+  },
+  "learn": {
+    "word": "learn",
+    "translation": "учить(ся)",
+    "emoji": "📖",
+    "audio": "audio/en/learn.mp3"
+  },
+  "learns": {
+    "word": "learns",
+    "translation": "учится",
+    "emoji": "📖",
+    "audio": "audio/en/learns.mp3"
+  },
+  "lesson": {
+    "word": "lesson",
+    "translation": "урок",
+    "emoji": "📘",
+    "audio": "audio/en/lesson.mp3"
+  },
+  "level": {
+    "word": "Level",
+    "translation": "уровень",
+    "emoji": "📊",
+    "audio": "audio/en/level.mp3"
+  },
+  "life": {
+    "word": "life",
+    "translation": "жизнь",
+    "emoji": "🌱",
+    "audio": "audio/en/life.mp3"
+  },
+  "lives": {
+    "word": "lives",
+    "translation": "жизни, живёт",
+    "emoji": "🏠",
+    "audio": "audio/en/lives.mp3"
+  },
+  "loss": {
+    "word": "loss",
+    "translation": "потеря",
+    "emoji": "💔",
+    "audio": "audio/en/loss.mp3"
+  },
+  "lot": {
+    "word": "lot",
+    "translation": "много",
+    "emoji": "➕",
+    "audio": "audio/en/lot.mp3"
+  },
+  "loud": {
+    "word": "loud",
+    "translation": "громкий",
+    "emoji": "🔊",
+    "audio": "audio/en/loud.mp3"
+  },
+  "main": {
+    "word": "main",
+    "translation": "главный",
+    "emoji": "🎯",
+    "audio": "audio/en/main.mp3"
+  },
+  "makes": {
+    "word": "makes",
+    "translation": "делает, создаёт",
+    "emoji": "🛠️",
+    "audio": "audio/en/makes.mp3"
+  },
+  "man": {
+    "word": "man",
+    "translation": "мужчина",
+    "emoji": "👨",
+    "audio": "audio/en/man.mp3"
+  },
+  "many": {
+    "word": "many",
+    "translation": "много",
+    "emoji": "📊",
+    "audio": "audio/en/many.mp3"
+  },
+  "meaning": {
+    "word": "meaning",
+    "translation": "значение, смысл",
+    "emoji": "💡",
+    "audio": "audio/en/meaning.mp3"
+  },
+  "missing": {
+    "word": "missing",
+    "translation": "пропавший",
+    "emoji": "❓",
+    "audio": "audio/en/missing.mp3"
+  },
+  "missions": {
+    "word": "missions",
+    "translation": "миссии, задания",
+    "emoji": "🎯",
+    "audio": "audio/en/missions.mp3"
+  },
+  "mist": {
+    "word": "mist",
+    "translation": "туман",
+    "emoji": "🌫️",
+    "audio": "audio/en/mist.mp3"
+  },
+  "move": {
+    "word": "move",
+    "translation": "двигаться, ход",
+    "emoji": "🚶",
+    "audio": "audio/en/move.mp3"
+  },
+  "must": {
+    "word": "must",
+    "translation": "должен",
+    "emoji": "📌",
+    "audio": "audio/en/must.mp3"
+  },
+  "name": {
+    "word": "name",
+    "translation": "имя",
+    "emoji": "🏷️",
+    "audio": "audio/en/name.mp3"
+  },
+  "named": {
+    "word": "named",
+    "translation": "по имени, названный",
+    "emoji": "🏷️",
+    "audio": "audio/en/named.mp3"
+  },
+  "never": {
+    "word": "never",
+    "translation": "никогда",
+    "emoji": "🚫",
+    "audio": "audio/en/never.mp3"
+  },
+  "noisy": {
+    "word": "noisy",
+    "translation": "шумный",
+    "emoji": "🔊",
+    "audio": "audio/en/noisy.mp3"
+  },
+  "not": {
+    "word": "not",
+    "translation": "не",
+    "emoji": "🚫",
+    "audio": "audio/en/not.mp3"
+  },
+  "of": {
+    "word": "of",
+    "translation": "из, о, принадлежность",
+    "emoji": "⚙️",
+    "audio": "audio/en/of.mp3"
+  },
+  "often": {
+    "word": "often",
+    "translation": "часто",
+    "emoji": "🔁",
+    "audio": "audio/en/often.mp3"
+  },
+  "old": {
+    "word": "old",
+    "translation": "старый",
+    "emoji": "🧓",
+    "audio": "audio/en/old.mp3"
+  },
+  "on": {
+    "word": "on",
+    "translation": "на",
+    "emoji": "📍",
+    "audio": "audio/en/on.mp3"
+  },
+  "one": {
+    "word": "one",
+    "translation": "один",
+    "emoji": "1️⃣",
+    "audio": "audio/en/one.mp3"
+  },
+  "only": {
+    "word": "only",
+    "translation": "только",
+    "emoji": "🔒",
+    "audio": "audio/en/only.mp3"
+  },
+  "or": {
+    "word": "or",
+    "translation": "или",
+    "emoji": "🔀",
+    "audio": "audio/en/or.mp3"
+  },
+  "other": {
+    "word": "other",
+    "translation": "другой",
+    "emoji": "🔁",
+    "audio": "audio/en/other.mp3"
+  },
+  "outside": {
+    "word": "outside",
+    "translation": "снаружи",
+    "emoji": "🚪",
+    "audio": "audio/en/outside.mp3"
+  },
+  "over": {
+    "word": "over",
+    "translation": "над, через",
+    "emoji": "☝️",
+    "audio": "audio/en/over.mp3"
+  },
+  "own": {
+    "word": "own",
+    "translation": "собственный",
+    "emoji": "🏠",
+    "audio": "audio/en/own.mp3"
+  },
+  "pain": {
+    "word": "pain",
+    "translation": "боль",
+    "emoji": "🤕",
+    "audio": "audio/en/pain.mp3"
+  },
+  "partner": {
+    "word": "partner",
+    "translation": "партнёр",
+    "emoji": "🧑‍🤝‍🧑",
+    "audio": "audio/en/partner.mp3"
+  },
+  "pass": {
+    "word": "pass",
+    "translation": "проходить",
+    "emoji": "🚶",
+    "audio": "audio/en/pass.mp3"
+  },
+  "people": {
+    "word": "People",
+    "translation": "люди",
+    "emoji": "👥",
+    "audio": "audio/en/people.mp3"
+  },
+  "power": {
+    "word": "power",
+    "translation": "сила",
+    "emoji": "⚡",
+    "audio": "audio/en/power.mp3"
+  },
+  "powerful": {
+    "word": "powerful",
+    "translation": "мощный",
+    "emoji": "💥",
+    "audio": "audio/en/powerful.mp3"
+  },
+  "pronunciation": {
+    "word": "pronunciation",
+    "translation": "произношение",
+    "emoji": "🗣️",
+    "audio": "audio/en/pronunciation.mp3"
+  },
+  "protecting": {
+    "word": "protecting",
+    "translation": "защищая",
+    "emoji": "🛡️",
+    "audio": "audio/en/protecting.mp3"
+  },
+  "protects": {
+    "word": "protects",
+    "translation": "защищает",
+    "emoji": "🛡️",
+    "audio": "audio/en/protects.mp3"
+  },
+  "reach": {
+    "word": "reach",
+    "translation": "достигать, дотянуться",
+    "emoji": "🤲",
+    "audio": "audio/en/reach.mp3"
+  },
+  "real": {
+    "word": "real",
+    "translation": "настоящий, реальный",
+    "emoji": "✅",
+    "audio": "audio/en/real.mp3"
+  },
+  "road": {
+    "word": "road",
+    "translation": "дорога",
+    "emoji": "🛣️",
+    "audio": "audio/en/road.mp3"
+  },
+  "run": {
+    "word": "run",
+    "translation": "бежать",
+    "emoji": "🏃",
+    "audio": "audio/en/run.mp3"
+  },
+  "russian": {
+    "word": "Russian",
+    "translation": "русский язык",
+    "emoji": "🇷🇺",
+    "audio": "audio/en/russian.mp3"
+  },
+  "s": {
+    "word": "s",
+    "translation": "буква «s»",
+    "emoji": "🔤",
+    "audio": "audio/en/s.mp3"
+  },
+  "says": {
+    "word": "says",
+    "translation": "говорит",
+    "emoji": "💬",
+    "audio": "audio/en/says.mp3"
+  },
+  "scared": {
+    "word": "scared",
+    "translation": "испуганный",
+    "emoji": "😱",
+    "audio": "audio/en/scared.mp3"
+  },
+  "season": {
+    "word": "Season",
+    "translation": "сезон",
+    "emoji": "📺",
+    "audio": "audio/en/season.mp3"
+  },
+  "see": {
+    "word": "see",
+    "translation": "видеть",
+    "emoji": "👀",
+    "audio": "audio/en/see.mp3"
+  },
+  "sees": {
+    "word": "sees",
+    "translation": "видит",
+    "emoji": "👀",
+    "audio": "audio/en/sees.mp3"
+  },
+  "sharingan": {
+    "word": "Sharingan",
+    "translation": "Шаринган (техника глаз)",
+    "emoji": "👁️",
+    "audio": "audio/en/sharingan.mp3"
+  },
+  "shows": {
+    "word": "shows",
+    "translation": "показывает",
+    "emoji": "📺",
+    "audio": "audio/en/shows.mp3"
+  },
+  "simple": {
+    "word": "simple",
+    "translation": "простой",
+    "emoji": "🧩",
+    "audio": "audio/en/simple.mp3"
+  },
+  "small": {
+    "word": "small",
+    "translation": "маленький",
+    "emoji": "🐁",
+    "audio": "audio/en/small.mp3"
+  },
+  "smiles": {
+    "word": "smiles",
+    "translation": "улыбается",
+    "emoji": "😊",
+    "audio": "audio/en/smiles.mp3"
+  },
+  "so": {
+    "word": "so",
+    "translation": "так, так что",
+    "emoji": "👉",
+    "audio": "audio/en/so.mp3"
+  },
+  "sounds": {
+    "word": "sounds",
+    "translation": "звуки, звучит",
+    "emoji": "🔊",
+    "audio": "audio/en/sounds.mp3"
+  },
+  "special": {
+    "word": "special",
+    "translation": "особенный",
+    "emoji": "✨",
+    "audio": "audio/en/special.mp3"
+  },
+  "start": {
+    "word": "start",
+    "translation": "начинать",
+    "emoji": "▶️",
+    "audio": "audio/en/start.mp3"
+  },
+  "starts": {
+    "word": "starts",
+    "translation": "начинает",
+    "emoji": "▶️",
+    "audio": "audio/en/starts.mp3"
+  },
+  "story": {
+    "word": "story",
+    "translation": "история, рассказ",
+    "emoji": "📖",
+    "audio": "audio/en/story.mp3"
+  },
+  "strong": {
+    "word": "strong",
+    "translation": "сильный",
+    "emoji": "💪",
+    "audio": "audio/en/strong.mp3"
+  },
+  "strongest": {
+    "word": "strongest",
+    "translation": "самый сильный",
+    "emoji": "🏆",
+    "audio": "audio/en/strongest.mp3"
+  },
+  "student": {
+    "word": "student",
+    "translation": "студент, ученик",
+    "emoji": "🧑‍🎓",
+    "audio": "audio/en/student.mp3"
+  },
+  "students": {
+    "word": "students",
+    "translation": "студенты, ученики",
+    "emoji": "🧑‍🎓",
+    "audio": "audio/en/students.mp3"
+  },
+  "sword": {
+    "word": "sword",
+    "translation": "меч",
+    "emoji": "⚔️",
+    "audio": "audio/en/sword.mp3"
+  },
+  "tap": {
+    "word": "Tap",
+    "translation": "нажать (по экрану)",
+    "emoji": "☝️",
+    "audio": "audio/en/tap.mp3"
+  },
+  "tazuna": {
+    "word": "Tazuna",
+    "translation": "Тадзуна (имя)",
+    "emoji": "👴",
+    "audio": "audio/en/tazuna.mp3"
+  },
+  "techniques": {
+    "word": "techniques",
+    "translation": "техники, приёмы",
+    "emoji": "🌀",
+    "audio": "audio/en/techniques.mp3"
+  },
+  "test": {
+    "word": "Test",
+    "translation": "тест, испытание",
+    "emoji": "📝",
+    "audio": "audio/en/test.mp3"
+  },
+  "text": {
+    "word": "text",
+    "translation": "текст",
+    "emoji": "📄",
+    "audio": "audio/en/text.mp3"
+  },
+  "that": {
+    "word": "that",
+    "translation": "тот",
+    "emoji": "📌",
+    "audio": "audio/en/that.mp3"
+  },
+  "the": {
+    "word": "the",
+    "translation": "артикль the (определённый)",
+    "emoji": "📌",
+    "audio": "audio/en/the.mp3"
+  },
+  "their": {
+    "word": "Their",
+    "translation": "их (чей?)",
+    "emoji": "👥",
+    "audio": "audio/en/their.mp3"
+  },
+  "them": {
+    "word": "them",
+    "translation": "их, им",
+    "emoji": "👥",
+    "audio": "audio/en/them.mp3"
+  },
+  "then": {
+    "word": "then",
+    "translation": "затем, тогда",
+    "emoji": "⏩",
+    "audio": "audio/en/then.mp3"
+  },
+  "they": {
+    "word": "they",
+    "translation": "они",
+    "emoji": "👥",
+    "audio": "audio/en/they.mp3"
+  },
+  "thick": {
+    "word": "thick",
+    "translation": "толстый, густой",
+    "emoji": "📚",
+    "audio": "audio/en/thick.mp3"
+  },
+  "thinks": {
+    "word": "thinks",
+    "translation": "думает",
+    "emoji": "🤔",
+    "audio": "audio/en/thinks.mp3"
+  },
+  "this": {
+    "word": "this",
+    "translation": "этот",
+    "emoji": "👉",
+    "audio": "audio/en/this.mp3"
+  },
+  "three": {
+    "word": "three",
+    "translation": "три",
+    "emoji": "3️⃣",
+    "audio": "audio/en/three.mp3"
+  },
+  "time": {
+    "word": "time",
+    "translation": "время",
+    "emoji": "⏰",
+    "audio": "audio/en/time.mp3"
+  },
+  "tired": {
+    "word": "tired",
+    "translation": "уставший",
+    "emoji": "😴",
+    "audio": "audio/en/tired.mp3"
+  },
+  "to": {
+    "word": "to",
+    "translation": "к, в, чтобы",
+    "emoji": "🔜",
+    "audio": "audio/en/to.mp3"
+  },
+  "too": {
+    "word": "too",
+    "translation": "слишком, тоже",
+    "emoji": "➕",
+    "audio": "audio/en/too.mp3"
+  },
+  "translation": {
+    "word": "translation",
+    "translation": "перевод",
+    "emoji": "🔁",
+    "audio": "audio/en/translation.mp3"
+  },
+  "trees": {
+    "word": "trees",
+    "translation": "деревья",
+    "emoji": "🌳",
+    "audio": "audio/en/trees.mp3"
+  },
+  "two": {
+    "word": "two",
+    "translation": "два",
+    "emoji": "2️⃣",
+    "audio": "audio/en/two.mp3"
+  },
+  "up": {
+    "word": "up",
+    "translation": "вверх",
+    "emoji": "⬆️",
+    "audio": "audio/en/up.mp3"
+  },
+  "use": {
+    "word": "use",
+    "translation": "использовать",
+    "emoji": "🛠️",
+    "audio": "audio/en/use.mp3"
+  },
+  "uses": {
+    "word": "uses",
+    "translation": "использует",
+    "emoji": "🛠️",
+    "audio": "audio/en/uses.mp3"
+  },
+  "values": {
+    "word": "values",
+    "translation": "ценности",
+    "emoji": "💎",
+    "audio": "audio/en/values.mp3"
+  },
+  "very": {
+    "word": "very",
+    "translation": "очень",
+    "emoji": "⭐",
+    "audio": "audio/en/very.mp3"
+  },
+  "walk": {
+    "word": "walk",
+    "translation": "идти, гулять",
+    "emoji": "🚶",
+    "audio": "audio/en/walk.mp3"
+  },
+  "wants": {
+    "word": "wants",
+    "translation": "хочет",
+    "emoji": "❤️",
+    "audio": "audio/en/wants.mp3"
+  },
+  "water": {
+    "word": "water",
+    "translation": "вода",
+    "emoji": "💧",
+    "audio": "audio/en/water.mp3"
+  },
+  "waves": {
+    "word": "Waves",
+    "translation": "Волны (страна Волн)",
+    "emoji": "🌊",
+    "audio": "audio/en/waves.mp3"
+  },
+  "weak": {
+    "word": "weak",
+    "translation": "слабый",
+    "emoji": "🪫",
+    "audio": "audio/en/weak.mp3"
+  },
+  "when": {
+    "word": "when",
+    "translation": "когда",
+    "emoji": "⏱️",
+    "audio": "audio/en/when.mp3"
+  },
+  "who": {
+    "word": "who",
+    "translation": "кто",
+    "emoji": "🧑",
+    "audio": "audio/en/who.mp3"
+  },
+  "will": {
+    "word": "will",
+    "translation": "будет (будущее время)",
+    "emoji": "🔮",
+    "audio": "audio/en/will.mp3"
+  },
+  "with": {
+    "word": "With",
+    "translation": "с",
+    "emoji": "🤝",
+    "audio": "audio/en/with.mp3"
+  },
+  "word": {
+    "word": "word",
+    "translation": "слово",
+    "emoji": "🔤",
+    "audio": "audio/en/word.mp3"
+  },
+  "words": {
+    "word": "words",
+    "translation": "слова",
+    "emoji": "📚",
+    "audio": "audio/en/words.mp3"
+  },
+  "working": {
+    "word": "working",
+    "translation": "работающий, работа",
+    "emoji": "💼",
+    "audio": "audio/en/working.mp3"
+  },
+  "world": {
+    "word": "world",
+    "translation": "мир",
+    "emoji": "🌎",
+    "audio": "audio/en/world.mp3"
+  },
+  "you": {
+    "word": "you",
+    "translation": "ты, вы",
+    "emoji": "👉",
+    "audio": "audio/en/you.mp3"
+  },
+  "your": {
+    "word": "your",
+    "translation": "твой, ваш",
+    "emoji": "👉",
+    "audio": "audio/en/your.mp3"
+  },
+  "zabuza": {
+    "word": "Zabuza",
+    "translation": "Забуза (имя)",
+    "emoji": "🗡️",
+    "audio": "audio/en/zabuza.mp3"
+  }
+}
